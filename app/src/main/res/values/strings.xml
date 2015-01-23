@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MadLibs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView_title">MadLibs!</string>
+    <string name="relative_1_editText">Relative</string>
+    <string name="adjective_1_editText">Adjective</string>
+    <string name="adjective_2_editText">Adjective</string>
+    <string name="nameOfPersonInRoom_editText">Name Person in Room</string>
+    <string name="adjective_3_editText">Adjective</string>
+    <string name="verbEndingED_editText">Verb ending \"ED\"</string>
+    <string name="bodyPart_editText">Body Part</string>
+    <string name="verbEndingING_editText">Verb ending \"ING\"</string>
+    <string name="relative_2_editText">Relative</string>
+    <string name="name_editText">Name</string>
+    <string name="showMe_button">Show Me!</string>
+    <string name="relative_1_textView_hint">Relative</string>
+    <string name="adjective_1_editText_hint">Adjective</string>
+    <string name="relative_1_editText_hint">Relative</string>
+    <string name="adjective_2_editText_hint">Adjective</string>
+    <string name="nameOfPersonInRoom_editText_hint">Name Person in Room</string>
+    <string name="adjective_3_editText_hint">Adjective</string>
+    <string name="verbEndingED_editText_hint">Verb ending \"ED\"</string>
+    <string name="bodyPart_editText_hint">Body Part</string>
+    <string name="verbEndingING_editText_hint">Verb ending \"ING\"</string>
+    <string name="relative_2_editText_hint">Relative</string>
+    <string name="name_editText_hint">Name</string>
+    <string name="activity_results_title">MadLibs!</string>
+    <string name="parameters_textView">To edit</string>
+
+</resources>
